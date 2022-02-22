@@ -1,4 +1,4 @@
-# testing-app-example
+# testing-app-example [![End-to-end tests](https://github.com/bahmutov/w1-example/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bahmutov/w1-example/actions/workflows/ci.yml)
 
 > A TodoMVC app with simple REST backend
 
